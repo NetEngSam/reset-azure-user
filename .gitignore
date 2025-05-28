@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secret / environment files
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# macOS / Linux system files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Token or credential dumps
+*.pem
+*.key
+*.crt
+*.pfx
